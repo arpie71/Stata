@@ -1,0 +1,5 @@
+v 3
+d Stata utilities written by Raymond Hicks
+t dropbox Find dropbox folder across drives
+t ccode Convert country code to another country coding scheme
+t ctyfind Return country codes for country name or vice versa
