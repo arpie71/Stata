@@ -1,0 +1,11 @@
+v 3
+d dropbox:  Package to find dropbox folder across hard drives.
+d {cmd: dropbox} has been updated to search external or secondary drives. The {opt nocd} option will now show a clickable link in the Viewer rather than only the text of the link.
+
+d Distribution-Date: 20240724
+
+d Author: {bf:Raymond Hicks, Columbia University}
+d Support: email arpie71@gmail.com
+
+f dropbox.ado
+f dropbox.sthlp
