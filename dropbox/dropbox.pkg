@@ -1,4 +1,3 @@
---- BEGIN --- dropbox.pkg -----------------------------------
 v 3
 d dropbox.  Package to find dropbox folder across hard drives.
 d The program has been updated since the earlier version to search external or secondary drives. The {opt nocd} option will now show a clickable link in the Viewer rather than only the text of the link.
@@ -10,4 +9,4 @@ d email: arpie71@gmail.com
 
 f dropbox.ado
 f dropbox.sthlp
---- END ----- dropbox.pkg -----------------------------------
+
